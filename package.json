@@ -1,0 +1,33 @@
+{
+  "name": "lloyderino.github.io",
+  "version": "1.0.0",
+  "private": true,
+  "description": "lloyderino.github.io",
+  "author": "LLoyderino",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "gatsby": "^3.9.0",
+    "gatsby-plugin-alias-imports": "^1.0.5",
+    "gatsby-plugin-sass": "^4.9.0",
+    "install": "^0.13.0",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.6.1",
+    "react-dom": "^17.0.1",
+    "sass": "^1.35.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.30.0",
+    "prettier": "^2.3.2",
+    "typescript": "^4.3.5"
+  }
+}
